@@ -18,3 +18,5 @@ By default players are NOT allowed to equip armor with curse enchantments (unequ
 
 Supported Versions  
 Forge: 1.16.1 - 1.16.5
+
+Download: [First release](https://github.com/MAGGen-hub/Armor-Exchanged-Super-Hot-Swap/releases/tag/merge)
