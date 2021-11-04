@@ -6,8 +6,10 @@ I hope AreUThreateningMe(kregerl) and StephenBarnes port my code to their mods f
 If you want to use something like this with fabric mod loader download Inventory Control Tweaks from curseforge.
 
 Please see authors repositories!
-![AreUThreateningMe(kregerl)](https://github.com/kregerl/armorhotswap)
-![StephenBarnes](https://github.com/StephenBarnes/ArmorExchanger)
+
+[AreUThreateningMe(kregerl)](https://github.com/kregerl/armorhotswap)
+
+[StephenBarnes](https://github.com/StephenBarnes/ArmorExchanger)
 
 ![Armor Hotswap](https://media.giphy.com/media/vKDDp1dh0fTNdMtLEM/giphy.gif)
 
