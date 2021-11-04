@@ -1,13 +1,3 @@
-Build: 1.16.1-32.2.2 - Wed Nov 04 19:15:00 GMT 2020
-	M.A.G.Gen.
-		Create merged version of two mods (see readme on this repo)
-		Fixed bug with pumpkins and other BlockItems.
-		Bug description: Player can't place block item while holding it in hands, you can place it only if it on player head)
-		Now players can place them
-		Tryed to make this mod work normal on server. Hope it succesful. 
-		A lot of code changed so I am not sure that other fixes and chages made before me are working now. 
-		Sorry everyone who edit these mods before me(
-=========
 Build: 1.16.1-32.0.108 - Sun Aug 09 20:05:01 GMT 2020
 	David Quintana:
 		Fix ModelRegistryEvent firing every time resources reload instead of just once.
