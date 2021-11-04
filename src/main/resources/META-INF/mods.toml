@@ -1,0 +1,30 @@
+	modLoader="javafml" 
+	loaderVersion="[32,)"
+	license="MIT"
+
+[[mods]]
+	modId="armorexchangedsuperhotswap"
+	version="1.9"
+	displayName="Armor Exchanged Super Hot Swap"
+	displayURL="https://github.com/MAGGen-hub/Armor-Exchanged-Super-Hot-Swap"
+	logoFile="ArmorHotswapLogo.png"
+	credits=""
+	authors='''
+	AreUThreateningMe
+	StephenBarne
+	M.A.G.Gen.'''
+	description='''
+	This mod is merged version of two mods named Armor Exchanger and Armor Hot Swap. I used their codes to make armor swap work better and with less problems such us cursed items unequipned and other weird stuff. Hope you like it. Check the github pages of mods authors please (you find the URLs on my git)!'''
+[[dependencies.armorexchangedsuperhotswap]]
+    modId="forge"
+    mandatory=true
+    versionRange="[32,)"
+    ordering="AFTER"
+    side="CLIENT"
+    
+[[dependencies.armorexchangedsuperhotswap]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1, 1.16.5]"
+    ordering="AFTER"
+    side="BOTH"
