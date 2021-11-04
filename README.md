@@ -1,8 +1,13 @@
 Armor Exchanged Super Hot Swap is a merged version of two mods named Armor Exchanger and Armor Hot Swap.
+
 Right click while holding a piece of armor to hotswap it with your current armor.  
+
 I need to say that I am not very good at porting mods to other versions so this one is supported only for 1.16.1 - 1.16.5.
-I worn you! This version is NOT tested on server (not enough testers to do it) but config allow you to run this mod on server now. But please be careful!
+
+I warn you! This version is NOT tested on server (not enough testers to do it) but config allow you to run this mod on server now. But please be careful!
+
 I hope AreUThreateningMe(kregerl) and StephenBarnes port my code to their mods for other versions support.
+
 If you want to use something like this with fabric mod loader download Inventory Control Tweaks from curseforge.
 
 Please see authors repositories!
